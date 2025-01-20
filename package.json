@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam-cowley/vue-neo4j.git"
+    "url": "git+https://github.com/a8331035100/vue-neo4j.git"
   },
   "keywords": [
     "neo4j",
@@ -21,9 +21,9 @@
   "author": "Adam Cowley <npm@adamcowley.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adam-cowley/vue-neo4j/issues"
+    "url": "https://github.com/a8331035100/vue-neo4j/issues"
   },
-  "homepage": "https://github.com/adam-cowley/vue-neo4j#readme",
+  "homepage": "https://github.com/a8331035100/vue-neo4j#readme",
   "dependencies": {
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.3",
